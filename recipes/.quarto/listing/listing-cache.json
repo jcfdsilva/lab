@@ -1,0 +1,18 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "drinks",
+      "sweet",
+      "savory"
+    ],
+    "drinks.qmd": [
+      "drinks"
+    ],
+    "savory.qmd": [
+      "savory"
+    ],
+    "sweet.qmd": [
+      "sweet"
+    ]
+  }
+}

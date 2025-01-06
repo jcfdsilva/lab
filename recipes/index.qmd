@@ -1,0 +1,18 @@
+---
+title: "JC Recipes"
+page-layout: full
+title-block-banner: true
+listing:
+  contents: 
+    - drinks
+    - sweet
+    - savory
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  include:
+    categories: "{TODO}*"
+---
+In this listing you can find incomplete recipes:

@@ -1,0 +1,14 @@
+{
+  "hash": "5926b391b255d5f51fafaa203d8b1b66",
+  "result": {
+    "markdown": "---\ntitle: Chocolate mousse\ntoc: true\ncategories: \ndescription: Chocolate mousse\n---\n\n## Ingredients\n\n::: {.cell}\n\n:::\n\n- 83.3333333*(250/3)*g butter\n- 200g dark chocolate\n- 6 Tsp sugar\n- 6 eggs\n- 1 tsp soluble coffee\n\n## Preparation\n\n### For the crust:\n\n1. Cream together the butter and sugar until fluffy and light.\n2. Add in the egg, and mix.\n3. Stir in the flour, pinch of cinamon, and baking powder just until combined into a pliable ball.\n4. Place the soft dough onto your greased pan and use your hands to spread it into an even layer across the bottom and up the sides of the pan.\n5. Poke the bottom with a fork and bake the empty crust for 10 mins. \n6. Remove from the oven and let cool slightly.\n\n### For the Filling:\n\n1. In a bowl whisk together the sour cream, egg, sugar, vanilla, and cinamon.\n2. Spread the blueberries evenly across the baked crust. Carefully pour the filling over and around the berries.\n3. Return to the oven and bake for 20-30 minutes, or until the edges are golden brown and the filling around the edges is set. \n*The center should not look like uncooked liquid, but neither too dry and firm.*\n4. Remove from the oven and cool at room temperature for about 30 mins.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

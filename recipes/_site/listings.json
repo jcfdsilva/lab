@@ -1,0 +1,42 @@
+[
+  {
+    "listing": "/sweet.html",
+    "items": [
+      "/sweet/arro_doce.html",
+      "/sweet/decorations.html",
+      "/sweet/pastel_de_nata.html",
+      "/sweet/mango_cake.html",
+      "/sweet/mandarine_cake.html",
+      "/sweet/blueberry_pie.html",
+      "/sweet/chocolate_mousse.html"
+    ]
+  },
+  {
+    "listing": "/drinks.html",
+    "items": [
+      "/drinks/rasberry_licor.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/savory/arroz_marisco.html",
+      "/savory/sweet_potato_gnocci.html"
+    ]
+  },
+  {
+    "listing": "/savory.html",
+    "items": [
+      "/savory/chicken_wings.html",
+      "/savory/chicken_tacos.html",
+      "/savory/arroz_marisco.html",
+      "/savory/beer_chicken.html",
+      "/savory/pasta_bolo.html",
+      "/savory/fish_soup.html",
+      "/savory/carbonara.html",
+      "/savory/caldo_verde.html",
+      "/savory/pataniscas.html",
+      "/savory/sweet_potato_gnocci.html"
+    ]
+  }
+]
